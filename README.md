@@ -31,19 +31,30 @@ March 2023 showed the revenue for the businesses settling at ₹275,23k. With Ma
 With regards to menu items Sandwiches made the most amount of revanue around ₹66k making 24% of the revanue ,suprisingly being the the most expansive menu item, upon further  analysis there was a strong positive correlation between the price of an item and the amount it made,the higher the price the higher the sales it made,revealing customer behaviour and how patrons prioritize quality and experience over pricing.
 
 
-DATA SET
+DATASET
 
 -1,000 transactions
 
 -Timeframe: April 2022 – March 2023
 
 -Features:
+
    Order details
+   
    Item pricing
+
    Payment methods
+   
    Customer gender
 
-<img width="600" height="400" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/e5a89e33-8616-4f9f-96a8-7e3454413834" />
+<img width="450" height="440" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/e5a89e33-8616-4f9f-96a8-7e3454413834" />
+
+
+
+
+
+
+
 
 
 
@@ -71,7 +82,7 @@ Analysing overall sales (Months)
 
 
 • The highest number of meals throughout the year also came from May amounting to 589 meals sold and also relatively high number of beverages making up
-237 beveragessold for the month. For the next financial period assuming the seasonal demand Leverage more in this month offering discounts and promotions 
+237 beverages sold for the month. For the next financial period assuming the seasonal demand, leverage more in this month offering discounts and promotions 
 and applying upseling strategies.
 
 <img width="350" height="300" alt="meals_beverages" src="https://github.com/user-attachments/assets/494c8893-d9dc-416d-a631-6cdd20c3b0dd" />
