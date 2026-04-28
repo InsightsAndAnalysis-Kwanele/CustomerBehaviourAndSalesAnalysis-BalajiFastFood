@@ -47,7 +47,7 @@ DATASET
    
    Customer gender
 
-<img width="450" height="440" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/e5a89e33-8616-4f9f-96a8-7e3454413834" />
+<img width="500" height="550" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/e5a89e33-8616-4f9f-96a8-7e3454413834" />
 
 
 
@@ -68,7 +68,7 @@ DATASET
 🧭⏲Time Based performance
 
 
-Analysing overall sales (Months)
+Analysing overall sales (Months)📈
 
 
 • Sales were the highest during 3 months, May, October and January. With May generating ₹26570,
@@ -89,7 +89,7 @@ and applying upseling strategies.
 
 
 
-Analysing overall sales
+Analysing overall sales📊
 
 
 • Analysing sales and the days of the week ,Sunday made the
@@ -103,7 +103,7 @@ leverage these on Sundays,Mondays and Wednesdays
 
 
 
- Looking at the time of the day where most sales and orders were made the results
+• Looking at the time of the day where most sales and orders were made the results
 were obvious as the time between afternoon ,night and evening would make
 the most amount of sales making up about 61% of the sales made, as this the time
 were most consumers are not working.
@@ -114,7 +114,7 @@ were most consumers are not working.
 
 
 
-PRODUCT PERFOMANCE
+PRODUCT PERFOMANCE 🥇🥈🥉
 
 
 1.type of food (item name) VS customer buying decision
@@ -163,7 +163,7 @@ and sales.
 
 
 
-PAYMENT BEHAVIOUR
+PAYMENT BEHAVIOUR 💳
 
 • cash payments made 59.82% of sales and card
 payments made 40.1% of sales generated.Most users preferred a cash-based system rather that an
@@ -174,7 +174,7 @@ electronic or card based.Promote discounts on card payments
 
 
 
-CUSTOMER SEGMENTATION AND GENDER
+CUSTOMER SEGMENTATION AND GENDER  🚻
 
 
 • Both men and women seemed to have the same buying power, both genders were
@@ -222,7 +222,7 @@ MALES
 
 
 
-CONCLUSION
+CONCLUSION📚📓
 
 
 • In conclusion customer buying decision seemed to be based primarily on quality and preference with
@@ -240,6 +240,11 @@ for ₹15 if they buy with a Sandwich or another item.
 3.Add varieties of the popular items to the menu e.g. to the popular items like the Sandwich, introduce
 and offer different variations to the traditional popular Sandwich adding different ingredients and selling
 it.
+
+4. Optimize Peak Hours .Allocate more staff during peak times and run targeted promotions in high-traffic periods
+   
+5. Once more leverage these days Sundays,Mondays and Wednesdays by creating family friendly experience,
+introduce family discounts and offer promotions and add variations of home cooked meals to menu items.
 
 • Further insight also suggested that most users were using cash with almost 60 % using cash and 40% using
 card payments, to improve customer experience and boost positive reviews, in place there should be
