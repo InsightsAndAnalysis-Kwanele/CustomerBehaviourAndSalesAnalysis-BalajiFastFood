@@ -1,76 +1,94 @@
-BALAJI FAST FOOD
-RESTURANT
-SALES REPORT AND DATA ANALYSIS
-CONTENT
-1. Project Overview
-2.Executive summary
-3.Insights and deep dive
-4. CONCLUSION
+BALAJI FAST FOOD RESTURANT SALES REPORT AND DATA ANALYSIS
 
 
-PROECT OVERVIEW
+
+
+📁PROJECT OVERVIEW
+
+
 -Balaji is a fast-food restaurant selling a variety of menu items ranging
 from tasty delicious drinks to excquisite Indian food.
+
 -Using the company’s sales data and the data on customers and their orders , I analyze
 what drives the business’s ability to thrive and generate the revenue it does, 
 seeing how customer factors/attribute play a role,like looking at which customer demographic or gender are
 regular in the business and data such as the items that customers
 mostly buy,average order value of each item, repeat purchases on products, the purchasing power of customers
 and from such insights what initiatives the restaurant can put in place to maximize sales.
+
 -I also dive deeper and look at factors such as time of day and date, when do people usually buy- hour of the day, the day of the
 month- and to what extent does this affect the buying power of customers and how can the business take advantage of this.
 
 
 
 
-EXECUTIVE SUMMARY
+💼EXECUTIVE SUMMARY
+
+
 Balaji fast food's customer behaviour and sales analysis of one thousand records for one fiscal year between April 2022 and the
-March 2023 showed the revenue for the businesses settling at ₹275,23k. With May being one of the top 3 months with highest number of sales and orders
-made having the largest percentage increase of 33.6% in sales which was suprising from the second lowest month in sales which was April the begining of
-the fiscal year, evident of effective good marketing strategies and good word of mouth and reviews in helping drive sales.With regards to menu items
-Sandwiches made the most amount of revanue around ₹66k making 24% of the revanue ,suprisingly it was the most expansive menu item, upon further 
-investigation I found that there was a strong positive correlation between the price of an item and the amount it made,the higher the price the higher the sales it made
-,revealing customer behaviour and how patrons prioritize quality and experience over pricing.
+March 2023 showed the revenue for the businesses settling at ₹275,23k. With May being one of the top 3 months with highest number of sales and orders made having the largest percentage increase of 33.6% in sales moving from the second lowest month in sales which was April the begining of the fiscal year, evident of effective good marketing strategies and good word of mouth and reviews in helping drive sales.
+
+With regards to menu items Sandwiches made the most amount of revanue around ₹66k making 24% of the revanue ,suprisingly being the the most expansive menu item, upon further  analysis there was a strong positive correlation between the price of an item and the amount it made,the higher the price the higher the sales it made,revealing customer behaviour and how patrons prioritize quality and experience over pricing.
 
 
 DATA SET
-<img width="300" height="400" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/e5a89e33-8616-4f9f-96a8-7e3454413834" />
+
+-1,000 transactions
+
+-Timeframe: April 2022 – March 2023
+
+-Features:
+   Order details
+   Item pricing
+   Payment methods
+   Customer gender
+
+<img width="600" height="400" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/e5a89e33-8616-4f9f-96a8-7e3454413834" />
 
 
 
 
-INSIGHTS DEEP DIVE
 
-Time Based performance
+
+
+
+🧠INSIGHTS DEEP DIVE
+
+🧭⏲Time Based performance
+
+
 Analysing overall sales (Months)
+
+
 • Sales were the highest during 3 months, May, October and January. With May generating ₹26570,
  October making ₹27205 and January with ₹28670,suggesting successful campaigns implimented during this time are worth replicating 
  were the revenue moved from high lows during these months to higher highs.
+• May also had the highest number of orders and the highest percentage increase in sales of 33.6%.
+
+ 
+<img width="300" height="320" alt="monthly_sales" src="https://github.com/user-attachments/assets/aebc4eaa-f60a-49fe-b4cb-c6f8a6aa2479" />
+<img width="300" height="320" alt="monthly_orders" src="https://github.com/user-attachments/assets/c7ec33c4-e6e8-4455-a21a-51325a0eb3f4" />
 
 
-• The interesting month was May, having the highest number of orders and the highest
-  percentage increase in sales of 33.6% from the second lowest month April which was also at
- the beginning of the financial month , this would be evident that good
- marketing strategies especially a good word of mouth and positive reviews help in sales
- revenue and profit generation.
+• The highest number of meals throughout the year also came from May amounting to 589 meals sold and also relatively high number of beverages making up
+237 beveragessold for the month. For the next financial period assuming the seasonal demand Leverage more in this month offering discounts and promotions 
+and applying upseling strategies.
 
+<img width="350" height="300" alt="meals_beverages" src="https://github.com/user-attachments/assets/494c8893-d9dc-416d-a631-6cdd20c3b0dd" />
 
-• May also had the highest number of meals sold for the entire month with 589
-meals and also relatively high number of beverages making up 237 beverages
-sold for the month. This was a huge bump with the highest increase than the
-other months in items sold
 
 
 Analysing overall sales
-• Analysing sales and the days of the week ,Sundays surprisingly made the
-most amount of sales generating ₹ 43970 with 158 orders made in total. This
-was interesting as generally most people generally prefer home cooked food
-and being around families on this day
-• As an incentive and a business solution possibly to maximize sales the
-restaurant should create a more family friendly environment from the menu
-items being sold to the restaurant setup, introduce family meals combinations
-and offer promotions and discounts like 4 of these meals for certain prices to
-encourage customers to bring also their families.
+
+
+• Analysing sales and the days of the week ,Sunday made the
+most amount of sales generating ₹ 43970 with 158 orders made in total.
+•To maximize sales the restaurant should create a more family friendly environment/experience,
+introduce family discounts and offer promotions and add variations of home cooked meals to menu items
+leverage these on Sundays,Mondays and Wednesdays
+
+<img width="320" height="361" alt="weakly_revenue" src="https://github.com/user-attachments/assets/8735d73f-a11d-4f3c-8ef9-bacf6501edfa" />
+
 
 
 
@@ -78,6 +96,9 @@ encourage customers to bring also their families.
 were obvious as the time between afternoon ,night and evening would make
 the most amount of sales making up about 61% of the sales made, as this the time
 were most consumers are not working.
+
+
+<img width="250" height="250" alt="daily_sales_piechart" src="https://github.com/user-attachments/assets/9b00dbf7-44a3-4583-a290-a61413e38aa9" />
 
 
 -
@@ -95,19 +116,36 @@ see how people would like them and slowly add these items to the menu. From item
 that do not require much resources to the ones that do, maintaining a balance
 between expenses and income while also increasing sales.
 
+
+<img width="267" height="297" alt="item_sales" src="https://github.com/user-attachments/assets/726c0db2-3a7b-4e27-b82a-0a393b44c759" /><img width="240" height="278" alt="order_items" src="https://github.com/user-attachments/assets/0356e90e-6803-41aa-b864-edf4be288310" />
+
+
+
+
 2.price vs quantity sold per item vs customer preferences?
 
 • Quantity sold per item seemed to be mostly based on preference rather than price, as a relatively low-priced menu item which was
 sugarcane juice priced at ₹25 was the second most bought item, with cold coffee being the most bought item priced at ₹40 which is not the
 most expensive item on the menu. 
+<img width="300" height="365" alt="item_prices" src="https://github.com/user-attachments/assets/ee98e8ac-4ee2-4572-ad8e-9f571495a5be" />
+
 
 
 3.  price vs sales and revenue? Do the cheap food
 items/meals and beverages get purchased more often than expensive ones?
+
+
+
 •There was a strong positive correlation between price of items
 and sales.
  Price definitely played a role in how and what people bought, more expensive menu items generated more sales than cheaper food items.
  reveals how customers seemed to value quality and experince over affordability. 
+
+<img width="385" height="409" alt="sale_price_relationship" src="https://github.com/user-attachments/assets/e0104ebd-4a98-47d8-bb6f-0be9493c7f46" />
+
+<img width="400" height="410" alt="price_sales" src="https://github.com/user-attachments/assets/34a2040b-e73c-4ed9-9f83-84b6910310d0" />
+
+
 
 
 PAYMENT BEHAVIOUR
