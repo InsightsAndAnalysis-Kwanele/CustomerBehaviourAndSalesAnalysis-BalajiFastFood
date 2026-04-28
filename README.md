@@ -9,15 +9,15 @@ CONTENT
 
 
 PROECT OVERVIEW
- Balaji is a fast-food restaurant selling a variety of menu items ranging
+-Balaji is a fast-food restaurant selling a variety of menu items ranging
 from tasty delicious drinks to excquisite Indian food.
- Using the company’s sales data and the data on customers and their orders , I analyze
+-Using the company’s sales data and the data on customers and their orders , I analyze
 what drives the business’s ability to thrive and generate the revenue it does, 
 seeing how customer factors/attribute play a role,like looking at which customer demographic or gender are
 regular in the business and data such as the items that customers
 mostly buy,average order value of each item, repeat purchases on products, the purchasing power of customers
 and from such insights what initiatives the restaurant can put in place to maximize sales.
- I also dive deeper and look at factors such as time of day and date, when do people usually buy- hour of the day, the day of the
+-I also dive deeper and look at factors such as time of day and date, when do people usually buy- hour of the day, the day of the
 month- and to what extent does this affect the buying power of customers and how can the business take advantage of this.
 
 
@@ -34,7 +34,7 @@ investigation I found that there was a strong positive correlation between the p
 
 
 DATA SET
-<img width="89" height="109" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/e5a89e33-8616-4f9f-96a8-7e3454413834" />
+<img width="300" height="400" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/e5a89e33-8616-4f9f-96a8-7e3454413834" />
 
 
 
