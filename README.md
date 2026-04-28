@@ -101,17 +101,21 @@ were most consumers are not working.
 <img width="250" height="250" alt="daily_sales_piechart" src="https://github.com/user-attachments/assets/9b00dbf7-44a3-4583-a290-a61413e38aa9" />
 
 
--
+
 
 PRODUCT PERFOMANCE
+
+
 1.type of food (item name) VS customer buying decision
 
 •  customers seemed more inclined to order some menu items than other ones. 
 With the item generating the most amount of ₹ 65820 with over 1097 orders made, and 
 the lowest in sales making ₹20120 with 1006 orders.
- Although some items generated low revenue it was not detrimental to 
+
+• Although some items generated low revenue it was not detrimental to 
 the business as they still  generate revenue they should be kept as a menu item.
- The restaurant should introduce more items, make a test run or offer free samples to
+
+• The restaurant should introduce more items, make a test run or offer free samples to
 see how people would like them and slowly add these items to the menu. From items
 that do not require much resources to the ones that do, maintaining a balance
 between expenses and income while also increasing sales.
@@ -150,24 +154,40 @@ and sales.
 
 PAYMENT BEHAVIOUR
 
-4. Do customers using cards/online payments spend more than
-customers using cash? How can this information help the business?
-Can Self-buying services like kiosks help maximize sales?
 • cash payments made 59.82% of sales and card
 payments made 40.1% of sales generated.Most users preferred a cash-based system rather that an
 electronic or card based.Promote discounts on card payments
 
-5.Does demographic (gender) play a role in sales
-and purchasing decisions? Which gender spends
-more in the restaurant? What initiatives can be put
-in place to make sure the other gender which
-spends less also spends more in order to maximize
-sales?
+<img width="581" height="408" alt="transaction_type" src="https://github.com/user-attachments/assets/10f6b303-7703-4aa8-ac50-64248c9f71b5" />
+
+
+
+
+CUSTOMER SEGMENTATION AND GENDER
+
+
 • Both men and women seemed to have the same buying power, both genders were
 spending and were adding almost equally to the sales generated through out the year.
 However, using the filter feature it was apparent that by gender, males were more inclined to
 certain menu items and females were inclined to certain menu items, this was evident on the
 sales generated on certain items based on gender.
+
+FEMALES
+
+
+<img width="300" height="300" alt="female_chart" src="https://github.com/user-attachments/assets/565e27c6-496b-48a0-91a6-a6332df7cc37" />
+
+<img width="300" height="300" alt="female_sales" src="https://github.com/user-attachments/assets/aa6c2ffe-f562-4a2c-85df-117128689e45" />
+
+
+MALES
+
+<img width="300" height="300" alt="male_chart" src="https://github.com/user-attachments/assets/156b2c55-c126-4287-95c5-5b3b24e444e8" />
+
+
+<img width="300" height="300" alt="male_sale" src="https://github.com/user-attachments/assets/a60ca426-58b0-42b3-9fe1-dc57983be8c5" />
+
+
 
 
 
