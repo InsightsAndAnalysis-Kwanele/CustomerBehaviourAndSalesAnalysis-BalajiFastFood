@@ -209,30 +209,34 @@ MALES
 
 
 
+
+
 CONCLUSION
- In conclusion customer buying decision seemed to be based primarily on quality and preference with
+
+
+• In conclusion customer buying decision seemed to be based primarily on quality and preference with
 the cheapest menu items making the least number of sales and orders. For a business solution and an
 incentive geared towards these insights, the business/restaurant Balaji as a way to maximize sales should :
 
- 1. Aggressively promote the bestselling menu items like the Sandwich, the Frankie and the
+1. Aggressively promote the bestselling menu items like the Sandwich, the Frankie and the
 Cold coffee beverage e.g. Highlighting the items on the menu as “Trending”,” Most Popular”,” People’s
 favourites” as way to draw more people in.
 
- 2. Use Upselling methods as a way again to draw more people towards these items e.g. offer additional
+2. Use Upselling methods as a way again to draw more people towards these items e.g. offer additional
 items at lower prices for buying the popular items, like a person can get sugarcane juice priced at ₹20
 for ₹15 if they buy with a Sandwich or another item.
 
- 3.Add varieties of the popular items to the menu e.g. to the popular items like the Sandwich, introduce
+3.Add varieties of the popular items to the menu e.g. to the popular items like the Sandwich, introduce
 and offer different variations to the traditional popular Sandwich adding different ingredients and selling
 it.
 
- Further insight also suggested that most users were using cash with almost 60 % using cash and 40% using
+• Further insight also suggested that most users were using cash with almost 60 % using cash and 40% using
 card payments, to improve customer experience and boost positive reviews, in place there should be
 procedures to increase service time, for cash users having change and training stuff members in
 handling cash quicker to avoid delays in order time, for card users making sure all card machines are
 reliable and process fast, buy more card machines. As we are a digitally evolving society it might be
 better to encourage card payments, offer discounts for card payments e.g. “Spend more than ₹250 on
 card payment and get 15% off”
- Implementing these business strategies, will improve customer satisfaction, reviews and rating while also
+• Implementing these business strategies, will improve customer satisfaction, reviews and rating while also
 increasing and growing sales.
 
