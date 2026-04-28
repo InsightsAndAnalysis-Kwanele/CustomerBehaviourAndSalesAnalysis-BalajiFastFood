@@ -31,7 +31,7 @@ March 2023 showed the revenue for the businesses settling at ₹275,23k. With Ma
 With regards to menu items Sandwiches made the most amount of revanue around ₹66k making 24% of the revanue ,suprisingly being the the most expansive menu item, upon further  analysis there was a strong positive correlation between the price of an item and the amount it made,the higher the price the higher the sales it made,revealing customer behaviour and how patrons prioritize quality and experience over pricing.
 
 
-DATASET
+DATASET🗒️
 
 -1,000 transactions
 
@@ -62,7 +62,9 @@ DATASET
 
 
 
+<br></br>
 
+<br></br>
 🧠INSIGHTS DEEP DIVE
 
 🧭⏲Time Based performance
