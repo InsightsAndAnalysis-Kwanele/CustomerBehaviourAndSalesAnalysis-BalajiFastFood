@@ -1,9 +1,9 @@
-BALAJI FAST FOOD RESTURANT SALES REPORT AND DATA ANALYSIS
+<h2>BALAJI FAST FOOD RESTURANT SALES REPORT AND DATA ANALYSIS </h2>
 
 
 
 
-📁PROJECT OVERVIEW
+📁<b>PROJECT OVERVIEW</b>
 
 
 -Balaji is a fast-food restaurant selling a variety of menu items ranging
@@ -19,10 +19,12 @@ and from such insights what initiatives the restaurant can put in place to maxim
 -I also dive deeper and look at factors such as time of day and date, when do people usually buy- hour of the day, the day of the
 month- and to what extent does this affect the buying power of customers and how can the business take advantage of this.
 
+<br></br>
+
+<br></br>
 
 
-
-💼EXECUTIVE SUMMARY
+💼<b>EXECUTIVE SUMMARY</b>
 
 
 Balaji fast food's customer behaviour and sales analysis of one thousand records for one fiscal year between April 2022 and the
@@ -30,8 +32,11 @@ March 2023 showed the revenue for the businesses settling at ₹275,23k. With Ma
 
 With regards to menu items Sandwiches made the most amount of revanue around ₹66k making 24% of the revanue ,suprisingly being the the most expansive menu item, upon further  analysis there was a strong positive correlation between the price of an item and the amount it made,the higher the price the higher the sales it made,revealing customer behaviour and how patrons prioritize quality and experience over pricing.
 
+<br></br>
 
-DATASET🗒️
+<br></br>
+
+<b>DATASET</b>🗒️
 
 -1,000 transactions
 
@@ -65,7 +70,9 @@ DATASET🗒️
 <br></br>
 
 <br></br>
-🧠INSIGHTS DEEP DIVE
+🧠<b>INSIGHTS DEEP DIVE</b>
+<br></br>
+
 
 🧭⏲Time Based performance
 
@@ -89,7 +96,9 @@ and applying upseling strategies.
 
 <img width="350" height="300" alt="meals_beverages" src="https://github.com/user-attachments/assets/494c8893-d9dc-416d-a631-6cdd20c3b0dd" />
 
+<br></br>
 
+<br></br>
 
 Analysing overall sales📊
 
@@ -114,9 +123,11 @@ were most consumers are not working.
 <img width="250" height="250" alt="daily_sales_piechart" src="https://github.com/user-attachments/assets/9b00dbf7-44a3-4583-a290-a61413e38aa9" />
 
 
+<br></br>
 
+<br></br>
 
-PRODUCT PERFOMANCE 🥇🥈🥉
+<b>PRODUCT PERFOMANCE</b> 🥇🥈🥉
 
 
 1.type of food (item name) VS customer buying decision
@@ -137,6 +148,7 @@ between expenses and income while also increasing sales.
 <img width="267" height="297" alt="item_sales" src="https://github.com/user-attachments/assets/726c0db2-3a7b-4e27-b82a-0a393b44c759" /><img width="240" height="278" alt="order_items" src="https://github.com/user-attachments/assets/0356e90e-6803-41aa-b864-edf4be288310" />
 
 
+<br></br>
 
 
 2.price vs quantity sold per item vs customer preferences?
@@ -146,6 +158,7 @@ sugarcane juice priced at ₹25 was the second most bought item, with cold coffe
 most expensive item on the menu. 
 <img width="300" height="365" alt="item_prices" src="https://github.com/user-attachments/assets/ee98e8ac-4ee2-4572-ad8e-9f571495a5be" />
 
+<br></br>
 
 
 3.  price vs sales and revenue? Do the cheap food
@@ -162,10 +175,12 @@ and sales.
 
 <img width="400" height="410" alt="price_sales" src="https://github.com/user-attachments/assets/34a2040b-e73c-4ed9-9f83-84b6910310d0" />
 
+<br></br>
+
+<br></br>
 
 
-
-PAYMENT BEHAVIOUR 💳
+<b>PAYMENT BEHAVIOUR</b> 💳
 
 • cash payments made 59.82% of sales and card
 payments made 40.1% of sales generated.Most users preferred a cash-based system rather that an
@@ -174,26 +189,34 @@ electronic or card based.Promote discounts on card payments
 <img width="581" height="408" alt="transaction_type" src="https://github.com/user-attachments/assets/10f6b303-7703-4aa8-ac50-64248c9f71b5" />
 
 
+<br></br>
 
+<br></br>
 
-CUSTOMER SEGMENTATION AND GENDER  🚻
+<b>CUSTOMER SEGMENTATION AND GENDER</b>  🚻
 
 
 • Both men and women seemed to have the same buying power, both genders were
 spending and were adding almost equally to the sales generated through out the year.
 However, using the filter feature it was apparent that by gender, males were more inclined to
 certain menu items and females were inclined to certain menu items, this was evident on the
-sales generated on certain items based on gender.
+sales generated on certain items based on gender.The restaurant should promote two for 1 special for young men to drive sales on items bought more by young men ,same for girls , like "bring a buddy" special.
 
-FEMALES
+<br></br>
+
+
+<b>FEMALES</b>
 
 
 <img width="300" height="300" alt="female_chart" src="https://github.com/user-attachments/assets/565e27c6-496b-48a0-91a6-a6332df7cc37" />
 
 <img width="300" height="300" alt="female_sales" src="https://github.com/user-attachments/assets/aa6c2ffe-f562-4a2c-85df-117128689e45" />
 
+<br></br>
 
-MALES
+
+
+<b>MALES</b>
 
 <img width="300" height="300" alt="male_chart" src="https://github.com/user-attachments/assets/156b2c55-c126-4287-95c5-5b3b24e444e8" />
 
@@ -224,7 +247,7 @@ MALES
 
 
 
-CONCLUSION📚📓
+<h2>CONCLUSION</h2>📚📓
 
 
 • In conclusion customer buying decision seemed to be based primarily on quality and preference with
